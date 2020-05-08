@@ -1,11 +1,9 @@
 div#menu{
     background-color: cornflowerblue;
-    position:fixed;
     margin-bottom: 50px;
     padding-bottom: 25px;
 }
-a{
-    margin-top: 25px;
+a{ 
     font-weight: bold;
 }
 h1.title {
